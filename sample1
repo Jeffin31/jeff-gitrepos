@@ -1,0 +1,6 @@
+#include<stdio.h>
+intmain()
+{
+printf("Hellow");
+return 0;
+}
